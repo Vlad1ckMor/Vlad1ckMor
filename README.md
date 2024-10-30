@@ -1,7 +1,7 @@
 Морозов Владислав
 Группа П-22-3.2
 Практическая работа
-Обычные задания:[Uploading Гвоздев тхт.txt…]()
+Обычные задания:
 
 Задание № 1![1](https://github.com/user-attachments/assets/6f404e28-9809-406b-a360-88876f019d1a)
 Задание № 2![2](https://github.com/user-attachments/assets/34a6322b-3335-4354-8d72-d337d4831a70)
@@ -34,5 +34,6 @@
 Задание № 7![инд 7](https://github.com/user-attachments/assets/5fc8e252-151a-414d-a497-5490856f50ec)
 Задание № 9![инд 9](https://github.com/user-attachments/assets/95e30620-0b68-4d26-99f1-7b39a5d4001b)
 Задание № 10![инд 10](https://github.com/user-attachments/assets/79d21077-5412-44f2-a9dc-e854f872463a)
+Конец, спасибо за просмотр
 
 

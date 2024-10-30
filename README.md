@@ -1,6 +1,6 @@
+DARTPRAC
 Морозов Владислав
 Группа П-22-3.2
-DARTPRAC
 Обычные задания:
 
 Задание № 1![1](https://github.com/user-attachments/assets/6f404e28-9809-406b-a360-88876f019d1a)
